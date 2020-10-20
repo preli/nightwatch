@@ -1,0 +1,20 @@
+.dice-page {
+
+    padding: 0.1rem;
+
+    .result {
+        font-weight: bold;
+        border: solid 2px #d0d0d0;
+        background: #f0f0f0;
+        text-align: center;
+    }
+
+    .numeric {
+        width: 2rem;
+        text-align: right;
+    }
+
+    .nw-button {
+        min-width: 4rem;
+    }
+}

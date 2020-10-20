@@ -1,1 +1,0 @@
-{"version":3,"sources":["basic.scss"],"names":[],"mappings":"AAAA,UACI,QAAA,CACA,UAEJ,oBACI","file":"basic.d1b62722.css","sourceRoot":"..","sourcesContent":["html, body {\r\n    margin:0;\r\n    padding:0;\r\n}\r\nhtml, input, textarea {\r\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\r\n}"]}
