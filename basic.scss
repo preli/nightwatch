@@ -1,6 +1,7 @@
 html, body {
     margin:0;
     padding:0;
+    font-size: 1.1rem;
 }
 html, input, textarea {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -8,8 +9,8 @@ html, input, textarea {
 
 
 .nw-button {
-	background-color: #3B99FF;
-    border: 0.1rem solid #3B99FF;
+	background-color: #1f5285;
+    border: 0.1rem solid #1f5285;
 	color: white;
 	
     border-radius: .3rem;
@@ -17,10 +18,10 @@ html, input, textarea {
     cursor: pointer;
     display: inline-block;
     /* font-weight: 700; */
-	height: 2rem;
+	height: 3rem;
 	box-sizing: border-box;
     letter-spacing: .1rem;
-    line-height: 2rem;
+    line-height: 2.5rem;
     padding: 0rem 1.0rem;
     text-align: center;
     text-decoration: none;
