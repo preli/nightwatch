@@ -1,0 +1,26 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preli/nightwatch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preli/nightwatch/issues"
+  },
+  "homepage": "https://github.com/preli/nightwatch#readme",
+  "dependencies": {
+    "jsl-render": "^3.6.2"
+  },
+  "devDependencies": {
+    "sass": "^1.27.0",
+    "typescript": "^4.0.3"
+  }
+}
